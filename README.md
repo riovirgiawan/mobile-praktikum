@@ -1,24 +1,32 @@
-# test2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Proyek Pemrograman Mobile
-## Deskripsi
+
 Aplikasi latihan untuk praktikum pemrograman mobile menggunakan Flutter.
-## Pengembang
-Nama panggilan / akun GitHub: Rio Virgiawan
-## Status
-Proyek awal perkuliahan.
+
+## Deskripsi
+
+Proyek ini merupakan aplikasi latihan yang dibuat untuk memenuhi kegiatan praktikum pemrograman mobile menggunakan Flutter.
+
+## Tujuan Aplikasi
+
+Aplikasi ini bertujuan untuk mempelajari dasar-dasar pengembangan aplikasi mobile menggunakan Flutter serta penerapan version control dengan Git dan GitHub.
+
+## Rencana Fitur
+
+1. **Transfer**
+   Fitur untuk melakukan pengiriman uang ke rekening BRI maupun bank lain.
+
+2. **QRIS**
+   Fitur untuk melakukan pembayaran menggunakan QRIS.
+
+3. **Cek Saldo & Mutasi**
+   Fitur untuk melihat saldo dan riwayat transaksi.
+
+## Cara Menjalankan
+
+1. Pastikan Flutter SDK sudah terpasang.
+2. Buka folder proyek menggunakan Visual Studio Code.
+3. Jalankan perintah berikut pada terminal:
+
+```bash
+flutter pub get
+flutter run
