@@ -25,7 +25,7 @@ Aplikasi ini bertujuan untuk mempelajari dasar-dasar pengembangan aplikasi mobil
 
 1. Pastikan Flutter SDK sudah terpasang.
 2. Buka folder proyek menggunakan Visual Studio Code.
-3. Jalankan perintah berikut pada terminal:
+3. Jalankan perintah berikut pada terminal
 
 ```bash
 flutter pub get
